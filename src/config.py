@@ -22,6 +22,7 @@ else:
 # Address of recipient
 RECIPIENT_ADDRESS = '0x4a8C9D751EEAbc5521A68FB080DD7E72E46462aF'  # Contract address for Arcade Land
 
+
 ##########################################
 # The below lines relate to sniping NFTs #
 ##########################################
